@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+#ChatBots {
+    background: linear-gradient(#d81b60 0%, #e53935 100%);
+}
+
+#AppLabCodingProjects{
+    background-image: radial-gradient(blue, purple);
+
+}
+img { transition: transform .2s; } img:hover { transform: scale(0.9); }
+}
